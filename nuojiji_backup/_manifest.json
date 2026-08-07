@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786072803349,
+  "timestamp": 1786072808635,
   "appVersion": "6.9.29 (2026.07.20)",
   "tables": [
     "characters",
@@ -105,7 +105,9 @@
     "userMessages": true,
     "ttsAudio": true,
     "forumData": true,
-    "calendarData": true
+    "calendarData": true,
+    "groupChats": true,
+    "xinsheng": true
   },
   "inProgress": true
 }
