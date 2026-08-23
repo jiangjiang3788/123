@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787494929997,
-  "appVersion": "6.9.43 (2026.08.23)",
+  "timestamp": 1787527148340,
+  "appVersion": "6.9.45 (2026.08.23)",
   "tables": [
     "characters",
     "friendRequests",
@@ -77,11 +77,15 @@
     "shopOrders",
     "shopData",
     "shopFulfillments",
+    "chatVariables",
+    "plugins",
+    "pluginAssets",
+    "pluginData",
     "charLifePlans",
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 298
+    "messages": 299
   },
   "completedTables": {
     "characters": true,
@@ -157,7 +161,11 @@
     "shopOrders": true,
     "shopData": true,
     "shopFulfillments": true,
-    "charLifePlans": true
+    "charLifePlans": true,
+    "chatVariables": true,
+    "plugins": true,
+    "pluginAssets": true,
+    "pluginData": true
   },
   "inProgress": false
 }
