@@ -1,9 +1,10 @@
 {
   "version": 6,
-  "timestamp": 1787396647395,
-  "appVersion": "6.9.29 (2026.07.20)",
+  "timestamp": 1787494929997,
+  "appVersion": "6.9.43 (2026.08.23)",
   "tables": [
     "characters",
+    "friendRequests",
     "worldBooks",
     "globalSettings",
     "stickers",
@@ -46,6 +47,7 @@
     "goingOutAreas",
     "mapRasterCache",
     "customGames",
+    "customGameSaves",
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
@@ -70,10 +72,16 @@
     "coReadChapters",
     "coReadSessions",
     "naiVibeCache",
+    "walletTransactions",
+    "walletData",
+    "shopOrders",
+    "shopData",
+    "shopFulfillments",
+    "charLifePlans",
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 288
+    "messages": 298
   },
   "completedTables": {
     "characters": true,
@@ -141,7 +149,15 @@
     "coReadChapters": true,
     "coReadSessions": true,
     "naiVibeCache": true,
-    "_migration": true
+    "_migration": true,
+    "friendRequests": true,
+    "customGameSaves": true,
+    "walletTransactions": true,
+    "walletData": true,
+    "shopOrders": true,
+    "shopData": true,
+    "shopFulfillments": true,
+    "charLifePlans": true
   },
   "inProgress": false
 }
