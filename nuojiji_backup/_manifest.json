@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787555567385,
-  "appVersion": "6.9.45 (2026.08.23)",
+  "timestamp": 1787668876154,
+  "appVersion": "6.9.49 (2026.08.25)",
   "tables": [
     "characters",
     "friendRequests",
@@ -51,6 +51,7 @@
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
+    "lifeRpgData",
     "whiteDogData",
     "isekaiSaves",
     "isekaiPresets",
@@ -85,7 +86,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 306
+    "messages": 319
   },
   "completedTables": {
     "characters": true,
@@ -165,7 +166,8 @@
     "pluginAssets": true,
     "pluginData": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "lifeRpgData": true
   },
   "inProgress": false
 }
