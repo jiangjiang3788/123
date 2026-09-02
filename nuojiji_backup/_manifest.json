@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788335552872,
-  "appVersion": "6.9.64 (2026.09.02)",
+  "timestamp": 1788337409789,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -88,7 +88,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 326
+    "messages": 82
   },
   "completedTables": {
     "characters": true,
@@ -122,6 +122,7 @@
     "ttsAudio": true,
     "forumData": true,
     "calendarData": true,
+    "customCalendars": true,
     "groupChats": true,
     "xinsheng": true,
     "pomodoroSessions": true,
@@ -170,8 +171,8 @@
     "pluginAssets": true,
     "pluginData": true,
     "charLifePlans": true,
-    "_migration": true,
-    "customCalendars": true
+    "_migration": true
   },
+  "source": "auto",
   "inProgress": false
 }
