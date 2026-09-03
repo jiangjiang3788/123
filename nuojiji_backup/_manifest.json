@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788404849498,
+  "timestamp": 1788404854590,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -145,7 +145,8 @@
     "regexRules": true,
     "mcpServers": true,
     "thinkingStore": true,
-    "commitments": true
+    "commitments": true,
+    "characterLifeState": true
   },
   "source": "auto",
   "inProgress": true
