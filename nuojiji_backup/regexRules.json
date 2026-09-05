@@ -1,1 +1,1 @@
-[]
+[{"name":"极其","category":"","enabled":1,"isHtmlTemplate":false,"pattern":"极其","flags":"g","replacement":"","htmlTemplate":"","cssScope":"","aiPrompt":"","parseMode":"text","renderMode":"inline","scope":"global","characterIds":[],"scenes":["tm","chat"],"role":"ai","applyOnDisplay":1,"applyOnPrompt":0,"minDepth":null,"maxDepth":null,"trim":0,"order":0,"triggerEnabled":0,"triggerKeywords":"","createdAt":1788632267037,"updatedAt":1788632313828,"_id":2}]
