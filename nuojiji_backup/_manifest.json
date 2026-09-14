@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1789352810664,
-  "appVersion": "userscript-shortcut-v0.13",
+  "timestamp": 1789355560086,
+  "appVersion": "userscript-shortcut-v0.14.1",
   "tables": [
     "characters",
     "friendRequests",
