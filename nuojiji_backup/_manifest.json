@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1789374942506,
-  "appVersion": "auto-backup",
+  "timestamp": 1789375765966,
+  "appVersion": "userscript-shortcut-v0.14.4",
   "tables": [
     "characters",
     "friendRequests",
