@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789658500082,
+  "timestamp": 1789673334158,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -81,6 +81,7 @@
     "coReadChapters",
     "coReadSessions",
     "coReadQuotes",
+    "coReadTranslations",
     "naiVibeCache",
     "walletTransactions",
     "walletData",
@@ -195,7 +196,8 @@
     "jiliCreators": true,
     "jiliPosts": true,
     "jiliDMs": true,
-    "shareLinkMeta": true
+    "shareLinkMeta": true,
+    "coReadTranslations": true
   },
   "source": "auto",
   "inProgress": false
