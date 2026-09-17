@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789656537012,
+  "timestamp": 1789658500082,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -47,7 +47,12 @@
     "goingOutState",
     "goingOutAreas",
     "goingOutLogs",
+    "jiliData",
+    "jiliCreators",
+    "jiliPosts",
+    "jiliDMs",
     "mapRasterCache",
+    "shareLinkMeta",
     "customGames",
     "customGameSaves",
     "customWidgetTemplates",
@@ -185,7 +190,12 @@
     "chatSettingsPresets": true,
     "charBondSpaces": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "jiliData": true,
+    "jiliCreators": true,
+    "jiliPosts": true,
+    "jiliDMs": true,
+    "shareLinkMeta": true
   },
   "source": "auto",
   "inProgress": false
