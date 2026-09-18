@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789725621364,
+  "timestamp": 1789725628008,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -144,7 +144,8 @@
     "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
-    "goingOutLogs": true
+    "goingOutLogs": true,
+    "jiliData": true
   },
   "source": "auto",
   "inProgress": true
