@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1789729450416,
-  "appVersion": "6.9.79 (2026.09.17)",
+  "timestamp": 1789732451652,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -101,7 +101,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 33,
+    "messages": 9,
     "tmStories": 3,
     "imageStore": 2
   },
@@ -170,7 +170,35 @@
     "chikanPhoneSkins": true,
     "healthEntries": true,
     "healthProfile": true,
-    "homelandState": true
+    "homelandState": true,
+    "fontStore": true,
+    "radioData": true,
+    "novelBooks": true,
+    "novelChapters": true,
+    "novelVolumes": true,
+    "coReadBooks": true,
+    "coReadChapters": true,
+    "coReadSessions": true,
+    "coReadQuotes": true,
+    "coReadTranslations": true,
+    "naiVibeCache": true,
+    "walletTransactions": true,
+    "walletData": true,
+    "shopOrders": true,
+    "shopData": true,
+    "shopFulfillments": true,
+    "deliveryOrders": true,
+    "deliveryData": true,
+    "chatVariables": true,
+    "plugins": true,
+    "avatarFrames": true,
+    "pluginAssets": true,
+    "pluginData": true,
+    "chatSettingsPresets": true,
+    "charBondSpaces": true,
+    "charLifePlans": true,
+    "_migration": true
   },
-  "inProgress": true
+  "source": "auto",
+  "inProgress": false
 }
