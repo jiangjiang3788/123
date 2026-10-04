@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791139324897,
+  "timestamp": 1791139331506,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -183,7 +183,9 @@
     "commitments": true,
     "characterLifeState": true,
     "chikanPhoneSkins": true,
-    "healthEntries": true
+    "healthEntries": true,
+    "healthProfile": true,
+    "homelandState": true
   },
   "source": "auto",
   "inProgress": true
