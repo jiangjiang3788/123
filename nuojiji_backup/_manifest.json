@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791084090719,
+  "timestamp": 1791084097630,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -117,7 +117,7 @@
     "messages": 10,
     "tmStories": 5,
     "imageStore": 3,
-    "rowFieldItems": 2
+    "rowFieldItems": 3
   },
   "completedTables": {
     "characters": true,
@@ -195,7 +195,8 @@
     "coReadBooks": true,
     "coReadChapters": true,
     "coReadSessions": true,
-    "coReadComments": true
+    "coReadComments": true,
+    "coReadQuotes": true
   },
   "source": "auto",
   "inProgress": true
