@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791139264229,
+  "timestamp": 1791139270552,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -167,7 +167,9 @@
     "jiliDMMessages": true,
     "mapRasterCache": true,
     "shareLinkMeta": true,
-    "customGames": true
+    "customGames": true,
+    "customGameSaves": true,
+    "customWidgetTemplates": true
   },
   "source": "auto",
   "inProgress": true
