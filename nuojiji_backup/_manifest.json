@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1791634363732,
-  "appVersion": "userscript-shortcut-v0.16.1",
+  "timestamp": 1791636503464,
+  "appVersion": "userscript-shortcut-v0.17.1",
   "tables": [
     "characters",
     "friendRequests",
@@ -25,7 +25,6 @@
     "multiSceneStories",
     "multiSceneCastSettings",
     "multiSceneSessionSettings",
-    "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
     "customBgm",
