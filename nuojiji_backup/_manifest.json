@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1791638510060,
-  "appVersion": "6.9.95 (2026.10.06)",
+  "timestamp": 1791638620149,
+  "appVersion": "userscript-shortcut-v0.18.0",
   "tables": [
     "characters",
     "friendRequests",
@@ -113,7 +113,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 38,
+    "messages": 10,
     "tmStories": 5,
     "imageStore": 7,
     "rowFieldItems": 3
@@ -224,5 +224,6 @@
     "charLifePlans": true,
     "_migration": true
   },
+  "source": "auto",
   "inProgress": false
 }
